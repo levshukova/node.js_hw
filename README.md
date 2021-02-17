@@ -3,4 +3,4 @@
 
 ###### node index.js --action="list"
 
-![action="list"](images/1.png)
+![action="list"](./images/1.png)
