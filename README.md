@@ -23,5 +23,3 @@
 ###### node index.js --action="remove" --id=3
 
 ![4](https://user-images.githubusercontent.com/63469797/108171111-b6c2ea80-7103-11eb-8349-537486f3d2b3.png)
-
-
