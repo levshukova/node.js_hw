@@ -1,0 +1,28 @@
+{
+  "name": "node.js_hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "uuid": "^8.3.2",
+    "yargs": "^16.2.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levshukova/node.js_hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levshukova/node.js_hw/issues"
+  },
+  "homepage": "https://github.com/levshukova/node.js_hw#readme"
+}
